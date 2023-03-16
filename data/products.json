@@ -1,0 +1,618 @@
+{
+    "products": [
+        
+        
+        {
+            "id": 24,
+            "title": "Plastic Cards",
+            "image": "./imagess/1.jpg",
+            "price": 250,
+            "category": "Plastic Cards"
+        },
+        {
+            "id": 24,
+            "title": "Plastic Cards",
+            "image": "./imagess/3.jpg",
+            "price": 250,
+            "category": "Plastic Cards"
+        },
+        {
+            "id": 24,
+            "title": "Plastic Cards",
+            "image": "./imagess/4.jpg",
+            "price": 250,
+            "category": "Plastic Cards"
+        },
+        {
+            "id": 24,
+            "title": "Plastic Cards",
+            "image": "./imagess/5.jpg",
+            "price": 250,
+            "category": "Plastic Cards"
+        },
+        {
+            "id": 24,
+            "title": "Plastic Cards",
+            "image": "./imagess/plasticnew.jpg",
+            "price": 250,
+            "category": "Plastic Cards"
+        },
+        {
+            "id": 24,
+            "title": "Matt Plastic Cards",
+            "image": "./imagess/plasticmattnew.jpg",
+            "price": 250,
+            "category": "Plastic Cards"
+        },
+        {
+            "id": 24,
+            "title": "Textured Plastic Cards",
+            "image": "./imagess/plastictexture.jpg",
+            "price": 250,
+            "category": "Plastic Cards"
+        },
+        {
+            "id": 24,
+            "title": "Textured Plastic Cards",
+            "image": "./imagess/plastictexture2.jpg",
+            "price": 250,
+            "category": "Plastic Cards"
+        },
+        {
+            "id": 6,
+            "title": "Steel Holder",
+            "image": "./images/badges/steelholder.jpg",
+            "price": 1200,
+            "category": "Badges"
+        },
+        {
+            "id": 6,
+            "title": "Steel Holder",
+            "image": "./images/badges/stainholder.jpg",
+            "price": 1200,
+            "category": "Badges"
+        },
+        {
+            "id": 6,
+            "title": "Plastic Holder",
+            "image": "./images/badges/eggholder.jpg",
+            "price": 1200,
+            "category": "Badges"
+        },
+        {
+            "id": 6,
+            "title": "Swipe Card",
+            "image": "./images/badges/swipcard.jpg",
+            "price": 1200,
+            "category": "Badges"
+        },
+        {
+            "id": 6,
+            "title": "Sticky Card",
+            "image": "./images/badges/stickycard.jpg",
+            "price": 1200,
+            "category": "Badges"
+        },
+        {
+            "id": 6,
+            "title": "Sticky Card",
+            "image": "./images/badges/stickycard2.jpg",
+            "price": 1200,
+            "category": "Badges"
+        },
+        {
+            "id": 6,
+            "title": "Ribbon",
+            "image": "./images/badges/plainribbon.jpg",
+            "price": 1200,
+            "category": "Badges"
+        },
+        {
+            "id": 6,
+            "title": "Ribbon",
+            "image": "./images/badges/ribbon.jpg",
+            "price": 1200,
+            "category": "Badges"
+        },
+        {
+            "id": 6,
+            "title": "Ribbon",
+            "image": "./images/badges/ribbons.jpg",
+            "price": 1200,
+            "category": "Badges"
+        },
+        {
+            "id": 6,
+            "title": "Round Name badge",
+            "image": "./images/badges/roundbadge.jpeg",
+            "price": 1200,
+            "category": "Badges"
+        },
+        {
+            "id": 6,
+            "title": "Name badge",
+            "image": "./images/badges/namebadge.jpg",
+            "price": 1200,
+            "category": "Badges"
+        },
+        {
+            "id": 6,
+            "title": "Chip Card",
+            "image": "./images/badges/chipcard.jpg",
+            "price": 1200,
+            "category": "Badges"
+        },
+        {
+            "id": 6,
+            "title": "Transparent Card",
+            "image": "./images/badges/transparentcard.jpg",
+            "price": 1200,
+            "category": "Badges"
+        },
+        {
+            "id": 6,
+            "title": "Card Case",
+            "image": "./images/badges/cardcase.jpg",
+            "price": 1200,
+            "category": "Badges"
+        },
+        {
+            "id": 6,
+            "title": "Pre Printed PAN Card",
+            "image": "./images/badges/pancard.jpg",
+            "price": 1200,
+            "category": "Badges"
+        },
+        {
+            "id": 6,
+            "title": "Aadhaar Card",
+            "image": "./images/badges/adharcard.jpg",
+            "price": 1200,
+            "category": "Badges"
+        },
+        {
+            "id": 6,
+            "title": "Signage Board",
+            "image": "./images/badges/signageboard.jpg",
+            "price": 1200,
+            "category": "Badges"
+        },
+        {
+            "id": 24,
+            "title": "Textured Plastic Cards",
+            "image": "./imagess/plastictexture7.jpg",
+            "price": 250,
+            "category": "Plastic Cards"
+        },
+        {
+            "id": 24,
+            "title": "Transparent Plastic Cards",
+            "image": "./imagess/Transparent.jpg",
+            "price": 250,
+            "category": "Plastic Cards"
+        },
+        {
+            "id": 24,
+            "title": "Plastic Cards",
+            "image": "./imagess/plasticnew2.jpg",
+            "price": 250,
+            "category": "Plastic Cards"
+        },
+        {
+            "id": 24,
+            "title": "Plastic Cards",
+            "image": "./imagess/plasticnew3.jpg",
+            "price": 250,
+            "category": "Plastic Cards"
+        },
+        {
+            "id": 24,
+            "title": "Plastic Cards",
+            "image": "./imagess/RFID.jpg",
+            "price": 250,
+            "category": "Plastic Cards"
+        },
+        {
+            "id": 7,
+            "title": "Classic Paper cards",
+            "image": "./images/products/6.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 23,
+            "title": "Textured Plastic Cards",
+            "image": "./images/products/42.jpg",
+            "price": 250,
+            "category": "Plastic Cards"
+        },
+        {
+            "id": 20,
+            "title": "Standard Plastic Cards",
+            "image": "./images/products/18.jpg",
+            "price": 250,
+            "category": "Plastic Cards"
+        },
+        {
+            "id": 23,
+            "title": "Matt/Glossy Plastic Cards",
+            "image": "./images/products/31.jpg",
+            "price": 250,
+            "category": "Plastic Cards"
+        },
+        {
+            "id": 14,
+            "title": "Glossy Thick Cards",
+            "image": "./images/products/11.jpg",
+            "price": 250,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 23,
+            "title": "Standard Plastic Cards",
+            "image": "./images/products/33.jpg",
+            "price": 250,
+            "category": "Plastic Cards"
+        },
+
+        {
+            "id": 6,
+            "title": "Classic Cards",
+            "image": "./imagess/cards/1.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 3,
+            "title": "Classic Cards",
+            "image": "./images/products/2.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 4,
+            "title": "Paper Cards",
+            "image": "./images/products/3.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 8,
+            "title": "Standard Cards",
+            "image": "./images/products/4.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        
+
+
+        {
+            "id": 10,
+            "title": "Premium Paper Cards",
+            "image": "./images/products/7.jpg",
+            "price": 250,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 11,
+            "title": "Premium Paper cards",
+            "image": "./images/products/8.jpg",
+            "price": 250,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 13,
+            "title": "Matt/Glossy Cards",
+            "image": "./images/products/9.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 12,
+            "title": "Premium Paper cards",
+            "image": "./images/products/10.jpg",
+            "price": 250,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 23,
+            "title": "Matt/Glossy Paper Cards",
+            "image": "./images/products/41.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        
+        {
+            "id": 5,
+            "title": "Textured Paper cards",
+            "image": "./images/products/5.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+
+        
+        {
+            "id": 9,
+            "title": "Ultra Premium Thick Cards",
+            "image": "./images/products/12.jpg",
+            "price": 200,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 15,
+            "title": "Textured Cards",
+            "image": "./images/products/13.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 16,
+            "title": "Standard Cards",
+            "image": "./images/products/14.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 17,
+            "title": "Textured cards",
+            "image": "./images/products/15.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 24,
+            "title": "Matt Paper Cards",
+            "image": "./images/products/21.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 2,
+            "title": "Classic Cards",
+            "image": "./images/products/16.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 18,
+            "title": "Textured Cards",
+            "image": "./images/products/17.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        
+        {
+            "id": 19,
+            "title": "Paper Cards",
+            "image": "./images/products/19.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 1,
+            "title": "Ultra Premium Thick Cards",
+            "image": "./images/products/20.jpg",
+            "price": 200,
+            "category": "Standard Cards"
+        },
+        
+        {
+            "id": 21,
+            "title": "Classic Paper Cards",
+            "image": "./images/products/22.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+
+        {
+            "id": 25,
+            "title": "Glossy Paper Cards",
+            "image": "./images/products/23.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 22,
+            "title": "Textured Paper Cards",
+            "image": "./images/products/24.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 23,
+            "title": "Textured Paper Cards",
+            "image": "./images/products/25.jpg",
+            "price": 250,
+            "category": "Standard Cards"
+        },
+        
+        {
+            "id": 23,
+            "title": "Paper Cards",
+            "image": "./images/products/27.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 23,
+            "title": "Textured Cards",
+            "image": "./images/products/28.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 23,
+            "title": "Textured Stabdard Cards",
+            "image": "./images/products/29.jpg",
+            "price": 250,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 23,
+            "title": "Glossy Thick Cards",
+            "image": "./images/products/30.jpg",
+            "price": 250,
+            "category": "Standard Cards"
+        },
+        
+        {
+            "id": 23,
+            "title": "Standard Cards",
+            "image": "./images/products/32.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        
+        {
+            "id": 23,
+            "title": "Classic Paper Cards",
+            "image": "./images/products/34.jpg",
+            "price": 250,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 23,
+            "title": "Standard Paper Cards",
+            "image": "./images/products/35.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 23,
+            "title": "Matt/Glossy Plastic Cards",
+            "image": "./images/products/36.jpg",
+            "price": 250,
+            "category": "Plastic Cards"
+        },
+        {
+            "id": 23,
+            "title": "Textured Paper Cards ",
+            "image": "./images/products/37.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 23,
+            "title": "Matt/Glossy Plastic Cards",
+            "image": "./images/products/38.jpg",
+            "price": 250,
+            "category": "Plastic Cards"
+        },
+        {
+            "id": 23,
+            "title": "Textured Paper Cards",
+            "image": "./images/products/39.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 23,
+            "title": "Matt/Glossy Plastic Cards",
+            "image": "./images/products/40.jpg",
+            "price": 250,
+            "category": "Plastic Cards"
+        },
+        
+        {
+            "id": 23,
+            "title": "Standard Paper Cards",
+            "image": "./images/products/43.jpg",
+            "price": 1200,
+            "category": "Standard Cards"
+        },
+        {
+            "id": 23,
+            "title": "Premium Thick Cards",
+            "image": "./images/products/44.jpg",
+            "price": 250,
+            "category": "Standard Cards"
+        },
+        
+        {
+            "id": 6,
+            "title": "Premium Metal Cards",
+            "image": "./imagess/cards/metal/1.jpg",
+            "price": 150,
+            "category": "Metal Cards"
+        },
+        {
+            "id": 6,
+            "title": "Premium Metal Cards",
+            "image": "./imagess/cards/metal/2.jpg",
+            "price": 150,
+            "category": "Metal Cards"
+        },
+        {
+            "id": 6,
+            "title": "Premium Metal Cards",
+            "image": "./imagess/cards/metal/3.jpg",
+            "price": 150,
+            "category": "Metal Cards"
+        },
+        {
+            "id": 6,
+            "title": "Premium Metal Cards",
+            "image": "./imagess/cards/metal/4.jpg",
+            "price": 150,
+            "category": "Metal Cards"
+        },
+        {
+            "id": 6,
+            "title": "Premium Metal Cards",
+            "image": "./imagess/cards/metal/5.jpg",
+            "price": 150,
+            "category": "Metal Cards"
+        },
+        {
+            "id": 6,
+            "title": "Premium Metal Cards",
+            "image": "./imagess/cards/metal/6.jpg",
+            "price": 150,
+            "category": "Metal Cards"
+        },
+        {
+            "id": 6,
+            "title": "Premium Metal Cards",
+            "image": "./imagess/cards/metal/7.jpg",
+            "price": 150,
+            "category": "Metal Cards"
+        },
+        {
+            "id": 6,
+            "title": "Premium Metal Cards",
+            "image": "./imagess/cards/metal/8.jpg",
+            "price": 150,
+            "category": "Metal Cards"
+        },
+        {
+            "id": 6,
+            "title": "Premium Metal Cards",
+            "image": "./imagess/cards/metal/9.jpg",
+            "price": 150,
+            "category": "Metal Cards"
+        },
+        {
+            "id": 6,
+            "title": "Premium Metal Cards",
+            "image": "./imagess/cards/metal/10.jpg",
+            "price": 150,
+            "category": "Metal Cards"
+        },
+        {
+            "id": 6,
+            "title": "Premium Metal Cards",
+            "image": "./imagess/cards/metal/11.jpg",
+            "price": 150,
+            "category": "Metal Cards"
+        },
+        {
+            "id": 6,
+            "title": "Premium Metal Cards",
+            "image": "./imagess/cards/metal/12.jpg",
+            "price": 1200,
+            "category": "Metal Cards"
+        }
+        
+        
+     ]
+}
