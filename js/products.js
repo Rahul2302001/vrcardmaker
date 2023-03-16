@@ -50,7 +50,7 @@ const displayProductItems = items => {
                       <div class="product__price">
                         <h4>1 Lot = ${product.price}</h4>
                       </div>
-                      <a href="#header"><button type="submit" class="product__btn">Call Now</button></a>
+                      <a href="tel:+918968888188"><button type="submit" class="product__btn">Call Now</button></a>
                     </div>
                   <ul>
                       <li>
