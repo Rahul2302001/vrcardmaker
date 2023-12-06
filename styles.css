@@ -234,6 +234,12 @@ Navigation
   top: 0;
   left: -1rem;
 }
+.footerr .creditDevelop{
+  color:var(--blue);
+  font-size: small;
+  text-align: -webkit-center;
+}
+
 
 /*
 ======================
